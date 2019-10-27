@@ -1,0 +1,1 @@
+web: gunicorn venv.main:app --log-file -
